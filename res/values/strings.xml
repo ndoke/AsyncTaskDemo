@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass04</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="complexityText">Select Complexity:</string>
+    <string name="threadBtnTxt">Generate Number Thread</string>
+    <string name="asyncBtnTxt">Generate Number Async Task</string>
+    <string name="complexityInitialTxt">0 times</string>
+
+</resources>
